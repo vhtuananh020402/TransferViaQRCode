@@ -1,0 +1,9 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+a;,:Ä
+a;;:ä
+b;;:ß
+o;,:Ö
+o;;:ö
+u;,:Ü
+u;;:ü
+ss:ß
